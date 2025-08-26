@@ -1,2 +1,2 @@
 # Optics_Json
-An optics simulation tool to test and check the functioning of your commercially available optics from different vendors before purchasing them. So that you don't buy wrong optics.
+An optics simulation tool that allows users to virtually test and evaluate commercially available optical components from different vendors before purchase, helping to avoid mismatches and ensuring the right optics are selected.
